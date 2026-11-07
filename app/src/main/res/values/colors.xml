@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Màu nhấn màn Báo cáo (tab, nút) -->
+    <color name="report_yellow">#FFD54F</color>
+    <!-- Nền segment chưa chọn -->
+    <color name="report_segment_unselected">#FF000000</color>
+    <!-- Màu chi tiêu/thu nhập -->
+    <color name="orange_500">#D5B50F</color>
+    <!-- Màu nền nhạt cho giới thiệu -->
+    <color name="report_light_yellow">#FFFFF8E1</color>
+    <!-- Màu xanh lá / thu nhập -->
+    <color name="green">#FF4CAF50</color>
+    <!-- Màu đỏ / chi tiêu -->
+    <color name="red">#FFE53935</color>
+
+    <!-- Dashboard colors -->
+    <color name="dark_background">#FF2D3436</color>
+    <color name="budget_teal">#FF4ECDC4</color>
+    <color name="remaining_green">#FF95E1D3</color>
+    <color name="overbudget_orange">#FFF38181</color>
+
+    <!-- Primary color -->
+    <color name="primary">#FF4CAF50</color>
+    <color name="primary_dark">#FF388E3C</color>
+    <color name="primary_light">#FFC8E6C9</color>
+
+    <!-- Auth screen colors -->
+    <color name="auth_background">#FFF5F5F5</color>
+    <color name="auth_primary">#FF00BFA5</color>
+    <color name="auth_primary_dark">#FF00897B</color>
+    <color name="auth_secondary">#FF26A69A</color>
+    <color name="auth_hint">#FF9E9E9E</color>
+    <color name="auth_text_primary">#FF212121</color>
+    <color name="auth_text_secondary">#FF757575</color>
+    <color name="auth_error">#FFE53935</color>
+    <color name="auth_success">#FF43A047</color>
+    <color name="auth_divider">#FFBDBDBD</color>
+    <color name="auth_white">#FFFFFFFF</color>
+    <color name="auth_card_background">#FFFFFFFF</color>
+</resources>

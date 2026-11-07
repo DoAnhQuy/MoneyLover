@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Investment: chart growing -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M3,12l2,-3h4l-3,4 2,3 -3,-4h-4l3,4zM7,6l3,-4 2,3 -3,4H6l2,-3zM11,18l2,-3h4l-3,4 2,3 -3,-4h-4l3,4z" />
+</vector>

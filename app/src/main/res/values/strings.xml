@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Money Lover - App chi tiêu cá nhân</string>
+    <string name="home">Trang chủ</string>
+    <string name="chart">Biểu đồ</string>
+    <string name="report">Báo cáo</string>
+    <string name="user">Tôi</string>
+    <string name="todo">TODO</string>
+    <string name="them">Thêm</string>
+    <string name="themlich">Thêm lịch</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+
+    <!-- Auth strings -->
+    <string name="welcome_back">Chào mừng bạn quay lại!</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục sử dụng</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="or">Hoặc</string>
+    <string name="no_account">Bạn chưa có tài khoản?</string>
+    <string name="sign_up">Đăng ký</string>
+
+    <!-- Register strings -->
+    <string name="create_account">Tạo tài khoản mới</string>
+    <string name="register_subtitle">Đăng ký để bắt đầu quản lý tài chính</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="register">Đăng ký</string>
+    <string name="already_have_account">Bạn đã có tài khoản?</string>
+    <string name="login_here">Đăng nhập tại đây</string>
+
+    <!-- Forgot password strings -->
+    <string name="forgot_password_title">Quên mật khẩu</string>
+    <string name="forgot_password_subtitle">Nhập email của bạn để khôi phục mật khẩu</string>
+    <string name="send">Gửi</string>
+    <string name="back_to_login"> Quay lại đăng nhập</string>
+    <string name="reset_code_sent">Mã xác nhận đã được gửi đến email của bạn</string>
+    <string name="enter_verification_code">Nhập mã xác nhận</string>
+    <string name="verification_code">Mã xác nhận</string>
+
+    <!-- Change password strings -->
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="change_password_subtitle">Nhập mật khẩu mới của bạn</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="confirm_new_password">Xác nhận mật khẩu mới</string>
+    <string name="update_password">Cập nhật mật khẩu</string>
+    <string name="password_changed_success">Mật khẩu đã được thay đổi thành công!</string>
+
+    <!-- Validation messages -->
+    <string name="email_required">Vui lòng nhập email</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="password_required">Vui lòng nhập mật khẩu</string>
+    <string name="password_too_short">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="passwords_not_match">Mật khẩu không khớp</string>
+    <string name="name_required">Vui lòng nhập họ và tên</string>
+    <string name="code_required">Vui lòng nhập mã xác nhận</string>
+
+    <!-- Error messages -->
+    <string name="login_failed">Đăng nhập thất bại.</string>
+    <string name="email_not_found">Email không tồn tại trong hệ thống</string>
+    <string name="registration_failed">Đăng ký thất bại. Vui lòng thử lại</string>
+    <string name="email_already_exists">Email đã được sử dụng</string>
+    <string name="invalid_verification_code">Mã xác nhận không hợp lệ</string>
+    <string name="password_change_failed">Không thể đổi mật khẩu. Vui lòng thử lại</string>
+
+    <!-- Success messages -->
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="registration_success">Đăng ký thành công!</string>
+</resources>

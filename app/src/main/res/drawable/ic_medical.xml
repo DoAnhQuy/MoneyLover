@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Medical: medical cross -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,4v6h2V4h-2zM14,6h-4v2h4V6zM12,14v6h2v-6h-2zM14,16h-4v2h4v-2zM16,7v2h-2V7h2zM7,12v2H5v-2h2zM17,12v2h-2v-2h2zM7,7v2H5V7h2zM7,17v2H5v-2h2zM17,7v2h-2V7h2zM17,17v2h-2v-2h2z" />
+</vector>

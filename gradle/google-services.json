@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "676270367458",
+    "firebase_url": "https://tuhoc-firebase-4025c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuhoc-firebase-4025c",
+    "storage_bucket": "tuhoc-firebase-4025c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676270367458:android:b65519965430fdbf72b4bb",
+        "android_client_info": {
+          "package_name": "com.example.moneylover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uFvaBO1wg90WCuOdRZdRl4iDrLes9f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676270367458:android:d50827d5172eef4272b4bb",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uFvaBO1wg90WCuOdRZdRl4iDrLes9f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676270367458:android:d9970739572fe8c372b4bb",
+        "android_client_info": {
+          "package_name": "com.example.movieappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uFvaBO1wg90WCuOdRZdRl4iDrLes9f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676270367458-vr2p5kc2jcrurgaagc10igvitsh54c2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_edit"
+        android:title="Sửa" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="Xóa" />
+    <item
+        android:id="@+id/action_pin"
+        android:title="Ghim" />
+    <item
+        android:id="@+id/action_detail"
+        android:title="Xem chi tiết" />
+</menu>
